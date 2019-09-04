@@ -73,5 +73,5 @@ Constraints:
 * Penalize the errors in class probabilites => Metric is Log-loss.
 * No Latency constraints.
 
-##2.3. Train, CV and Test Datasets
+## 2.3. Train, CV and Test Datasets
 Split the dataset randomly into three parts train, cross validation and test with 64%,16%, 20% of data respectively
